@@ -1,0 +1,246 @@
+header {
+    width: 1920px;
+    height: 86px;
+    background: #ffffff;
+    color: #000000;
+    font-family: 'Arial';
+    font-size: 16px;
+    display: flex;
+}
+
+body {
+    background: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    zoom: 75%;
+}
+
+.hapka {
+    margin-left: 402px;
+    margin-top: 12px;
+}
+
+.knopka {
+    height: 24px;
+    width: 140px;
+    background: #FFA019;
+    margin-left: 500px;
+    margin-top: 25px;
+    border: none;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    position: relative;
+    bottom: 10px;
+    border: solid 10px #ffffff;
+}
+
+.zv {
+    position: relative;
+    bottom: 7px;
+}
+
+.menu {
+    height: 86px;
+    width: 1920px;
+    background: #ffffff;
+    box-shadow: 0px -3px 5px 0px #a2a2a2;
+}
+
+.menuu {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    margin-left: 400px;
+    margin-top: 15px;
+}
+
+.II {
+    margin-left: 375px;
+    margin-top: 35px;
+}
+
+.mgg {
+    position: relative;
+    font-size: 56px;
+    color: #ffffff;
+    bottom: 700px;
+    text-align: center;
+}
+
+.kr {
+    text-align: center;
+    position: relative;
+    color: #ffffff;
+    bottom: 720px;
+    font-size: 20px;
+    right: 100px;
+}
+
+.df {
+    margin-left: 30px;
+    color: #000000;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.sc {
+    width: 1920px;
+    height: 1008px;
+    filter: brightness(40%);
+}
+
+.asd {
+    display: grid;
+    grid-auto-flow: column;
+    gap: 0%;
+    background: #ffffff;
+}
+
+.pr {
+    margin-left: 402px;
+    margin-top: -100px;
+    background: #ffffff;
+    font-size: 34px;
+}
+
+.nas {
+    margin-left: 402px;
+    margin-top: 170px;
+    background: #ffffff;
+    font-size: 34px;
+}
+
+.ns {
+    font-size: 20px;
+    padding-left: 140px;
+}
+
+.odin {
+    display: block;
+    position: absolute;
+    left: 15%;
+    right: 5%;
+    width: 350px;
+    padding-left: 120px;
+    font-size: 20px;
+}
+
+.dva {
+    display: block;
+    position: absolute;
+    left: 5%;
+    right: 5%;
+    width: 350px;
+    padding-left: 620px;
+    font-size: 20px;
+}
+
+.tri {
+    display: block;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    width: 350px;
+    padding-left: 1000px;
+    font-size: 20px;
+}
+
+.cetere {
+    display: block;
+    position: absolute;
+    left: 15%;
+    right: 10%;
+    width: 350px;
+    padding-left: 1000px;
+    font-size: 20px;
+}
+
+.w {
+    width: 60px;
+    height: 60px;
+    margin-top: 50px;
+    color: #ffffff;
+    padding-left: 450px;
+}
+
+.e {
+    width: 60px;
+    height: 60px;
+    margin-top: 50px;
+    color: #ffffff;
+    padding-left: 20px;
+}
+
+.r {
+    width: 60px;
+    height: 60px;
+    margin-top: 50px;
+    color: #ffffff;
+    padding-right: 0px;
+}
+
+.t {
+    width: 60px;
+    height: 60px;
+    margin-top: 50px;
+    color: #ffffff;
+    padding-right: 310px;
+}
+
+.podpiska {
+    background: #FFA019;
+    width: 1920px;
+    height: 120px;
+    margin-top: 80px;
+}
+
+.rass {
+    padding-left: 160px;
+    font-size: 18px;
+    color: #ffffff;
+    padding-top: 20px;
+}
+
+.name {
+    background-color: #FFA019;
+    color: #ffffff;
+    position: relative;
+    left: 800px;
+    bottom: 100px;
+    border: solid 1px #ffffff;
+    height: 30px;
+    outline: none
+}
+
+.email {
+    background-color: #FFA019;
+    color: #ffffff;
+    position: relative;
+    left: 1050px;
+    bottom: 135px;
+    border: solid 1px #ffffff;
+    height: 30px;
+    outline: none
+}
+
+.knopka2 {
+    background: #ffffff;
+    margin-left: 1300px;
+    color: #000000;
+    font-size: 14px;
+    font-weight: bold;
+    border: solid 10px #ffffff;
+    position: relative;
+    bottom: 164px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+input::placeholder {
+    color: #ffffff;
+    padding-left: 10px;
+}
